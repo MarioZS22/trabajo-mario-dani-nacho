@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LogicaOca
+comment1.params=idJugador
+comment1.target=int[]\ obtenerEstadisticas(int)
+comment2.params=idPartida
+comment2.target=java.util.HashMap\ obtenerPosiciones(int)
+comment3.params=idJugador\ idPartida
+comment3.target=boolean\ esMiTurno(int,\ int)
+comment4.params=idPartida
+comment4.target=int\ obtenerEstadoPartida(int)
+comment5.params=idJugador\ idPartida
+comment5.target=int\ jugarTurno(int,\ int)
+numComments=6
